@@ -1,8 +1,3 @@
- <head>
-    <h2>welcome to our company</h2>
-    <h2> we are ready to service you</h2>
-  </head>
-  <body>
-    <img src="https://tse3.mm.bing.net/th?id=OIP.l9KoMiuamQZVkSamTvetnAHaCy&pid=Api&P=0&w=370&h=139" />
-  </body>
-</html>
+<h1> RahulShettyAcademy.com Learning</h1>
+<h2> Learn QA Automation tools + Devops Tools CI/CD pipelines in course from Scratch</h2>
+<h2> Good Luck and we are almost done with the course.Thankyou</h2>
